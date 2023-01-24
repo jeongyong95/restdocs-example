@@ -1,0 +1,12 @@
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 2
+
+[[resources]]
+= APIs
+
+[[API]]
+== Hello
+operation::hello[]
